@@ -6,11 +6,12 @@ working on at [liammulh.net](https://liammulh.net). I have an
 ## What I'm working on right now
 
 In my free time, I'm working my way through Robert Nystrom's *Crafting
-Interpreters* book and learning Java and C in the process.
+Interpreters* book and learning Java and C in the process. I'm also
+honing my static blog generator, underwood.
 
 ## Personal projects
 
-* [Underwood](https://github.com/liammulh/underwood)
+* [underwood](https://github.com/liammulh/underwood)
   - Static blog generator written in Python
 * [0ty](https://github.com/liammulh/0ty)
   - Static site generator written in Node.js
