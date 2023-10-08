@@ -1,7 +1,7 @@
 Hello! My name is Liam Mulhall. I'm a software engineer based in the San
 Francisco Bay Area. I occasionally blog about things I'm learning or
 working on at [liammulh.net](https://liammulh.net). I have an
-[about page](https://liammulh.net) on my blog.
+[about page](https://liammulh.net/about.html) on my blog.
 
 ## What I'm working on right now
 
