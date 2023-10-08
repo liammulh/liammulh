@@ -1,31 +1,31 @@
 Hello! My name is Liam Mulhall. I'm a software engineer based in the San
-Francisco Bay Area.
+Francisco Bay Area. I occasionally blog about things I'm learning or
+working on at [liammulh.net](https://liammulh.net). I have an
+[about page](https://liammulh.net) on my blog.
 
-I work at Stanford University School of Medicine on the [Clinical Genome
-Resource](https://clinicalgenome.org/).
-
-I have experience across the stack in Python and JavaScript/TypeScript.
-
-I studied mathematics with a focus on computation at the Univerisity of
-Colorado Boulder. I have a minor in computer science. In my computer
-science courses, I mostly used C++.
+## What I'm working on right now
 
 In my free time, I'm working my way through Robert Nystrom's *Crafting
-Interpreters* book and learning Java in the process.
+Interpreters* book and learning Java and C in the process.
 
-## Projects
+## Personal projects
 
-* [underwood](https://github.com/liammulh/underwood) -- Static blog
+* [Underwood](https://github.com/liammulh/underwood): Static blog
   generator written in Python
-* [0ty](https://github.com/liammulh/0ty) -- Static site generator
+* [0ty](https://github.com/liammulh/0ty): Static site generator
   written in Node.js
-* [lemur.css](https://liammulh/lemur.css) -- A classless stylesheet I
+* [lemur.css](https://liammulh/lemur.css): A classless stylesheet I
   used in tandem with 0ty
-* [xor-nn](https://github.com/liammulh/xor-nn) -- Final project for my
+* [xor-nn](https://github.com/liammulh/xor-nn): Final project for my
   data structures class at CU Boulder; neural network written from
   scratch in C++
 
-## Blog
+## Experience and education
 
-I occasionally blog about things I'm learning or working on at
-[liammulh.net](https://liammulh.net).
+I work at Stanford University School of Medicine on the [Clinical Genome
+Resource](https://clinicalgenome.org/) where I traverse the stack in
+Python and JavaScript/TypeScript.
+
+I obtained a BA in mathematics with a focus on computation from the
+Univerisity of Colorado Boulder. I have a minor in computer science. In
+my computer science courses, I mostly programmed in C++.
