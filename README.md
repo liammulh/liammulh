@@ -28,5 +28,5 @@ Resource](https://clinicalgenome.org/) where I traverse the stack in
 Python and JavaScript/TypeScript.
 
 I obtained a BA in mathematics with a focus on computation from the
-Univerisity of Colorado Boulder. I have a minor in computer science. In
+University of Colorado Boulder. I have a minor in computer science. In
 my computer science courses, I mostly programmed in C++.
