@@ -14,7 +14,7 @@ Interpreters* book and learning Java and C in the process.
   - Static blog generator written in Python
 * [0ty](https://github.com/liammulh/0ty)
   - Static site generator written in Node.js
-* [lemur.css](https://liammulh/lemur.css)
+* [lemur.css](https://github.com/liammulh/lemur.css)
   - Classless stylesheet I used in tandem with 0ty
 * [xor-nn](https://github.com/liammulh/xor-nn)
   - Final project for my data structures class at CU Boulder
